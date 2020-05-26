@@ -17,9 +17,9 @@ Basic Python introduction and concepts needed in preparation for working with ma
 ## Case 1:  Local file-based
 
 ```PowerShell
-py 11mapper.py
-py 12sorter.py
-py 13reducer.py
+python 11mapper.py
+python 12sorter.py
+python 13reducer.py
 ```
 
 ## Case 2:  Use standard input and output
